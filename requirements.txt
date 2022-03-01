@@ -1,0 +1,8 @@
+tqdm
+toml
+pandas
+numpy
+scipy
+jieba
+scikit-learn
+pytorch==1.5
